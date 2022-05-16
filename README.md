@@ -3,6 +3,10 @@
 Run `ng build --output-hashing none`
 Copy main.js, polyfill.js, runtime.js and styles.css to AJS project
 
+Elements added
+`<analytics-counter></analytics-counter>`
+`<analytics-counter2></analytics-counter2>`
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
