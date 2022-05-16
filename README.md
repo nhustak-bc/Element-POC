@@ -1,5 +1,9 @@
 # Angular10WebcompnentsDemo
 
+Run `ng build --output-hashing none`
+Copy main.js, polyfill.js, runtime.js and styles.css to AJS project
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
 ## Development server
